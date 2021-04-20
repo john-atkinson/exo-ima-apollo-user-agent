@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exo-IMA-Apollo-User Agent</string>
+    <string name="content_url"><![CDATA[https://storage.googleapis.com/gvabox/media/samples/stock.mp4]]></string>
+    <string name="ad_tag_url"><![CDATA[https://api.shopkickads.com/vast/wrapper/a06b499?view_delay=1&skip_pacing=1&player_width=960&player_height=640&lat=37.738197&long=121.914379&bundle=com.shopkick.shopkick&age=35&gender=F]]></string>
+</resources>
